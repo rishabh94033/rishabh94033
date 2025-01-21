@@ -1,5 +1,6 @@
-## Hi there 
+## Hi from a Tech Athlete! 🏋️‍♂️💻
 
-- 🌱 I’m currently learning next.js
+- Welcome to my GitHub!
+
 
 
